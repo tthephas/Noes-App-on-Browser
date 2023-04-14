@@ -1,4 +1,4 @@
-# Noes-App-on-Browser
+# Notes-App-on-Browser
 
 Notes app that allows users to take notes directly on browser
 
